@@ -31,7 +31,7 @@ function App() {
                 </form>
             </div>
             <div className="image">
-                <img src="/images/adventure.jpg" alt="image" height="500px" width="700px" />
+                <img src="./images/adventure.jpg" alt="image" height="500px" width="700px" />
 
             </div>
             
@@ -42,42 +42,42 @@ function App() {
         <p style={{"color": "blueviolet","paddingBottom": "10px"}}> Just for you!your lovable destinations are here to explore!</p>
         <div className="destiny">
             <div className="card">
-                <div><img src="/images/pollachi.jpg" alt="pollachi" width="350px" /></div>
+                <div><img src="./images/pollachi.jpg" alt="pollachi" width="350px" /></div>
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>pollachi</h3>
                 <p className="destiny-desc" style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
                 <button type="submit" className="button">READ MORE</button>
             </div>
             <div className="card">
-                <div><img src="/images/tanjur.jpg" alt="tanjur" width="350px" /></div>
+                <div><img src="./images/tanjur.jpg" alt="tanjur" width="350px" /></div>
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>tanjur</h3>
                 <p className="destiny-desc" style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
                 <button type="submit" className="button">READ MORE</button>
             </div>
             <div className="card">
-                <div><img src="/images/kumbakonam.jpg" alt="tanjur" width="350px"/></div>
+                <div><img src="./images/kumbakonam.jpg" alt="tanjur" width="350px"/></div>
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>kumbakonam</h3>
                 <p className="destiny-desc" style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
                 <button type="submit" className="button">READ MORE</button>
             </div>
             <div className="card">
-                <div><img src="/images/masinagudi.jpg" alt="tanjur" width="350px"/></div>
+                <div><img src="./images/masinagudi.jpg" alt="tanjur" width="350px"/></div>
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>masinagudi</h3>
                 <p className="destiny-desc"style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
                 <button type="submit" className="button">READ MORE</button>
             </div>
             <div className="card">
-                <div><img src="/images/chidamabarm.jpg" alt="tanjur" width="350px"/></div>
+                <div><img src="./images/chidamabarm.jpg" alt="tanjur" width="350px"/></div>
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>chidamabarm</h3>
                 <p className="destiny-desc" style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
                 <button type="submit" className="button">READ MORE</button>
             </div>
             <div className="card">
-                <div><img src="/images/tirunelveli.jpg" alt="tanjur" width="350px"/></div>
+                <div><img src="./images/tirunelveli.jpg" alt="tanjur" width="350px"/></div>
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>tirunelveli</h3>
                 <p className="destiny-desc" style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
