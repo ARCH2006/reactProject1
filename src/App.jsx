@@ -31,7 +31,7 @@ function App() {
                 </form>
             </div>
             <div className="image">
-                <img src="./images/adventure.jpg" alt="image" height="500px" width="700px" />
+                <img src="images/adventure.jpg" alt="image" height="500px" width="700px" />
 
             </div>
             
@@ -42,7 +42,7 @@ function App() {
         <p style={{"color": "blueviolet","paddingBottom": "10px"}}> Just for you!your lovable destinations are here to explore!</p>
         <div className="destiny">
             <div className="card">
-                <img src="./images/pollachi.jpg" alt="pollachi" width="350px" />
+                <img src="images/pollachi.jpg" alt="pollachi" width="350px" />
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>pollachi</h3>
                 <p className="destiny-desc" style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
