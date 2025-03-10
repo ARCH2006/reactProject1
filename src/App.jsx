@@ -56,14 +56,14 @@ function App() {
                 <button type="submit" className="button">READ MORE</button>
             </div>
             <div className="card">
-                <div><img src="./images/kumbakonam.jpg" alt="tanjur" width="350px"/></div>
+                <div><img src="images/kumbakonam.jpg" alt="tanjur" width="350px"/></div>
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>kumbakonam</h3>
                 <p className="destiny-desc" style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
                 <button type="submit" className="button">READ MORE</button>
             </div>
             <div className="card">
-                <div><img src="./images/masinagudi.jpg" alt="tanjur" width="350px"/></div>
+                <div><img src="images/masinagudi.jpg" alt="tanjur" width="350px"/></div>
                 <p>Road trip fall in lovable mountains and forest</p>
                 <h3>masinagudi</h3>
                 <p className="destiny-desc"style={{"textAlign": "left"}}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe, nisi sapiente repellat nihil architecto neque laborum facilis deserunt itaque consectetur earum voluptas amet culpa praesentium blanditiis incidunt in voluptatem!</p>
